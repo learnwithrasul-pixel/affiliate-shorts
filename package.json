@@ -1,0 +1,21 @@
+{
+  "name": "affiliate-shorts",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Product link to a 9:16 short video with free local voice-over and EU ad-labelling checks built in.",
+  "license": "MIT",
+  "scripts": {
+    "studio": "remotion studio src/index.tsx",
+    "render": "remotion render src/index.tsx ProductShort"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.484",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "remotion": "4.0.484"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "typescript": "^5.3.0"
+  }
+}

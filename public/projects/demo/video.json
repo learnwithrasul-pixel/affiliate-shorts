@@ -1,0 +1,36 @@
+{
+  "label": "Werbung",
+  "footer": "Preis kann sich ändern · Link in Bio",
+  "accent": "#E8382F",
+  "voiceModel": "de_DE-thorsten-medium",
+  "scenes": [
+    {
+      "image": "projects/demo/product.png",
+      "headline": "Lohnt sich dieses Gerät? 🤔",
+      "voice": "Lohnt sich dieses Gerät wirklich?",
+      "seconds": 2.5
+    },
+    {
+      "image": "projects/demo/product.png",
+      "headline": "3 Dinge, die du wissen musst",
+      "sub": "Leistung · Größe · Preis",
+      "voice": "Hier sind drei Dinge, die du vor dem Kauf wissen musst.",
+      "seconds": 4
+    },
+    {
+      "image": "projects/demo/product.png",
+      "headline": "99 €",
+      "sub": "Beispielpreis · Stand 22.10.2026",
+      "voice": "Der Preis heute: neunundneunzig Euro.",
+      "seconds": 3,
+      "highlight": true
+    },
+    {
+      "image": "projects/demo/product.png",
+      "headline": "Würdest du es kaufen?",
+      "sub": "Schreib's in die Kommentare 👇",
+      "voice": "Würdest du es kaufen? Schreib es in die Kommentare!",
+      "seconds": 3.5
+    }
+  ]
+}
